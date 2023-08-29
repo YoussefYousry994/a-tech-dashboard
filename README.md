@@ -2,9 +2,6 @@
   <h2 align="center">a-tech - Admin Dashboard React App</h2>
 
 a-tech Dashboard is a responsive React App , <br />Responsive for all devices, built using TypeScript, Reactjs, Tailwindcss, Sass.
-
-<a href="https://youssefyousry994.github.io/tourist-master/"><strong>➥ Live Demo</strong></a>
-
 </div>
 
 <br />
