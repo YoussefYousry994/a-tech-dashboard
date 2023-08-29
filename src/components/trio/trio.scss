@@ -1,0 +1,75 @@
+.classCust {
+  align-items: flex-end;
+}
+
+.box_d {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 75px;
+  width: 195px;
+  color: #fff;
+}
+.box_d .rectangle {
+  position: relative;
+
+  padding: 15px;
+  background-color: #ff9a3e;
+  border-radius: 15px;
+  height: 75px;
+  width: 195px;
+}
+.rectangle p {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  font-style: normal;
+  font-family: sans-serif;
+  margin-bottom: 5px;
+}
+
+.rectangle .flow-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.flx-item {
+  display: flex;
+}
+
+.box_b {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 75px;
+  width: 195px;
+  color: #fff;
+}
+
+.box_b .rectangle {
+  position: relative;
+  padding: 15px;
+  background-color: #7661e2;
+  border-radius: 15px;
+  height: 75px;
+  width: 195px;
+}
+
+.box_g {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 75px;
+  width: 195px;
+  color: #fff;
+}
+
+.box_g .rectangle {
+  position: relative;
+  padding: 15px;
+  background-color: #3dd598;
+  border-radius: 15px;
+  height: 75px;
+  width: 195px;
+}

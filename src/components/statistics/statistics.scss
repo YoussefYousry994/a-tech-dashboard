@@ -1,0 +1,13 @@
+.group__layout {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.heading {
+  h3 {
+    color: #23262f;
+    font-size: 16px;
+    font-weight: 600;
+  }
+}
