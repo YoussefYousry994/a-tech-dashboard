@@ -11,7 +11,7 @@ a-tech Dashboard is a responsive React App , <br />Responsive for all devices, b
 
 ### Demo Screeshots
 
-![a-tech Desktop Demo](./screens/screely-1693323938413")
+![a-tech Desktop Demo](./screens/screely-1693323938413.png")
 
 
 ## Available Scripts
